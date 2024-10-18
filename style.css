@@ -1,0 +1,54 @@
+Body{
+	Background-color:#73deca;
+	font-family:"Monaco",monospace;
+	font-size:135%;
+}
+p {
+	Background-color:#c4ffe9;
+	font-family:"Monaco",monospace;
+	color: white;
+	text-align:center;
+	text-shadow: 1px 1px 2px black;
+	padding:5px;
+	box-shadow: 2px 2px 5px black;
+}
+.container {
+		background-color:seagreen;
+		width:30%;
+		margin:auto;
+		text-align: center;
+		border:4px solid black;
+		border-radius: 20px;
+		padding:20px;
+		box-shadow:5px 5px 10px rgba(0,0,0,0.9);
+}
+#Profile {
+		width:85px;
+		border-radius: 100px;
+		Border:2px solid black;
+}
+#Tiktok {
+		background-color:#94bed1;
+		Color:white;
+		border:1px solid black;
+		box-shadow: 2px 2px 5px black;
+}
+input[type="text"],input[type="email"]{
+		background-color:#c9f2e0;
+		border-radius: 5px;
+		padding: 10px;
+		font-family:"Monaco",monospace;
+}
+input[type="submit"]{
+		background-color:#4bad90;
+		border-radius: 5px;
+		padding: 10px;
+		width:50%;
+		font-family:"Monaco",monospace;
+		color:white;
+		box-shadow: 2px 2px 5px black;
+}
+
+h1 {
+	text-shadow: 1px 1px 2px black;
+}
